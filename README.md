@@ -11,6 +11,7 @@ In 2019, I started the [BlueMelt][bm] ~instrumental~ guitar rock project.
 
 ## Recent releases
 
+ - 🎸 [Music Single] [_Fading_][fading]
  - 🎸 [Music Single] [_Glass Towers_][gt]
  - 🎸 [Music EP] [_The Cube And The Key (part I)_][cube]
  - 💾 [Software] [C2Hat - Experimental TCP Chat client/server written in C][c2hat]
@@ -34,6 +35,7 @@ In 2019, I started the [BlueMelt][bm] ~instrumental~ guitar rock project.
 
 [mp]: https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling
 [bm]: https://bluemelt.co.uk
+[fading]: https://bluemelt.co.uk/music/fading
 [gt]: https://bluemelt.co.uk/music/glass-towers
 [cube]: https://bluemelt.co.uk/music/the-cube-and-the-key-part-i
 [c2hat]: https://github.com/vtardia/c2hat
