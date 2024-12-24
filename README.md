@@ -11,6 +11,9 @@ In 2019, I started the [BlueMelt][bm] ~instrumental~ guitar rock project.
 
 ## Recent releases
 
+ - 🎸 [Music Single] [_Catching The Wave_][ctw]
+ - 🎸 [Music Single] [_Running With The Fool_][fool]
+ - 🎸 [Music Single] [_Stardust On Your Dress_][stardust]
  - 🎸 [Music Single] [_Fading_][fading]
  - 🎸 [Music Single] [_Glass Towers_][gt]
  - 🎸 [Music EP] [_The Cube And The Key (part I)_][cube]
@@ -39,6 +42,9 @@ In 2019, I started the [BlueMelt][bm] ~instrumental~ guitar rock project.
 [fading]: https://bluemelt.co.uk/music/fading
 [gt]: https://bluemelt.co.uk/music/glass-towers
 [cube]: https://bluemelt.co.uk/music/the-cube-and-the-key-part-i
+[stardust]: https://bluemelt.co.uk/music/stardust
+[fool]: https://bluemelt.co.uk/music/running-with-the-fool
+[ctw]: https://bluemelt.co.uk/music/catching-the-wave
 [c2hat]: https://github.com/vtardia/c2hat
 [resumer]: https://github.com/vtardia/resumer
 [phptools]: https://github.com/vtardia/phptools
